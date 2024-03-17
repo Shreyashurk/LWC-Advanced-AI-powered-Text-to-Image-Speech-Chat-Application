@@ -10,6 +10,7 @@
 
 
 **Demo**
-!(https://github.com/Shreyashurk/LWC-Advanced-AI-powered-Text-to-Image-Speech-Chat-Application/assets/145257222/af48cfbd-36cf-4a41-b0e5-4625cfe91888)
+![Final Recordng](https://github.com/Shreyashurk/LWC-Advanced-AI-powered-Text-to-Image-Speech-Chat-Application/assets/145257222/af48cfbd-36cf-4a41-b0e5-4625cfe91888)
+
 
 
